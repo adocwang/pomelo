@@ -39,7 +39,7 @@
     "node-etcd": "~7.0.0",
     "node-zookeeper-client": "0.2.2",
     "pomelo-loader": "0.0.7",
-    "pomelo-logger": "0.1.7",
+    "pomelo-logger": "git+https://github.com/adocwang/pomelo-logger.git",
     "pomelo-protobuf": "0.4.0",
     "pomelo-protocol": "0.1.6",
     "pomelo-rpc": "git+https://github.com/adocwang/pomelo-rpc.git",
