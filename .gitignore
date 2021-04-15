@@ -17,3 +17,4 @@ coverage.html
 .DS_Store
 .idea/
 package-lock.json
+push_to_dev.sh
